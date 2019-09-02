@@ -152,17 +152,11 @@ A novel convolutional neural network model through histopathological images for 
   </tr>
 </table>
 
-#### Combined Data - Sub-Benign Diseases Classification [Best Model Confusion Matrix]
+#### Combined Data - Sub-Benign|| Sub-Malignant Diseases Classification [Best Model Confusion Matrix]
 <table width="100%" border="1">
   <tr>    
-  <img src="tmp/ALL_DATA_4_CLASS_BENIGN - confusion matrix - 5. FOLD.jpg" height=300 align="center">
-  </tr>
-</table>
-
-#### Combined Data - Sub-Malignant Diseases Classification [Best Model Confusion Matrix]
-<table width="100%" border="1">
-  <tr>    
-  <img src="tmp/ALL_DATA_4_CLASS_MALIGNANT - confusion matrix - 3. FOLD.jpg" height=300 align="center">
+  <td><img src="tmp/ALL_DATA_4_CLASS_BENIGN - confusion matrix - 5. FOLD.jpg" height=300 align="left"></td>
+  <td><img src="tmp/ALL_DATA_4_CLASS_MALIGNANT - confusion matrix - 3. FOLD.jpg" height=300 align="right"></td>
   </tr>
 </table>
 
