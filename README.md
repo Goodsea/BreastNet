@@ -1,4 +1,4 @@
-# Official Keras implementation of BreastNet
+# BreastNet
 A novel convolutional neural network model through histopathological images for the diagnosis of breast cancer
 
 # Table of Contents
