@@ -16,11 +16,11 @@ A novel convolutional neural network model through histopathological images for 
           - [Combined Data - Sub-Benign Diseases Classification [Best Model Graph]](https://github.com/Goodsea/BreastNet#combined-data---sub-benign-diseases-classification-best-model-graph)
           - [Combined Data - Sub-Malignant Diseases Classification [Best Model Graph]](https://github.com/Goodsea/BreastNet#combined-data---sub-malignant-diseases-classification-best-model-graph)
      - [Confusion Matrixes](https://github.com/Goodsea/BreastNet#confusion-matrixes)
-          - [40X Data [Best Model Confusion Matrix]](https://github.com/Goodsea/BreastNet#40x-data-best-model-confusion-matrix)
-          - [100X Data [Best Model Confusion Matrix]](https://github.com/Goodsea/BreastNet#100x-data-best-model-confusion-matrix)
-          - [200X Data [Best Model Confusion Matrix]](https://github.com/Goodsea/BreastNet#200x-data-best-model-confusion-matrix)
-          - [400X Data [Best Model Confusion Matrix]](https://github.com/Goodsea/BreastNet#400x-data-best-model-confusion-matrix)
-          - [Combined Data - Benign/Malignant Classification [Best Model Confusion Matrix]](https://github.com/Goodsea/BreastNet#combined-data---benignmalignant-classification-best-model-confusion-matrix)
+          - [40X Data [Best Model Confusion Matrix & ROC Curve]](https://github.com/Goodsea/BreastNet#40x-data-best-model-confusion-matrix)
+          - [100X Data [Best Model Confusion Matrix & ROC Curve]](https://github.com/Goodsea/BreastNet#100x-data-best-model-confusion-matrix)
+          - [200X Data [Best Model Confusion Matrix & ROC Curve]](https://github.com/Goodsea/BreastNet#200x-data-best-model-confusion-matrix)
+          - [400X Data [Best Model Confusion Matrix & ROC Curve]](https://github.com/Goodsea/BreastNet#400x-data-best-model-confusion-matrix)
+          - [Combined Data - Benign/Malignant Classification [Best Model Confusion Matrix & ROC Curve]](https://github.com/Goodsea/BreastNet#combined-data---benignmalignant-classification-best-model-confusion-matrix)
           - [Combined Data - Sub-Benign Diseases Classification [Best Model Confusion Matrix]](https://github.com/Goodsea/BreastNet#combined-data---sub-benign-diseases-classification-best-model-confusion-matrix)
           - [Combined Data - Sub-Malignant Diseases Classification [Best Model Confusion Matrix]](https://github.com/Goodsea/BreastNet#combined-data---sub-malignant-diseases-classification-best-model-confusion-matrix)
 - [Requirements](https://github.com/Goodsea/BreastNet#Requirements)
@@ -112,38 +112,44 @@ A novel convolutional neural network model through histopathological images for 
 <br>
 
 ## Confusion Matrixes
-#### 40X Data [Best Model Confusion Matrix]
+#### 40X Data [Best Model Confusion Matrix & ROC Curve]
 <table width="100%" border="1">
   <tr>    
-  <img src="tmp/40X - confusion matrix - 4. FOLD.jpg" height=300 align="center">
+   <td><img src="tmp/40X - confusion matrix - 4. FOLD.jpg" height=300 align="left"></td>
+   <td><img src="tmp/40X - ROC - 4. FOLD.jpg" height=300 align="right"></td>
   </tr>
 </table>
 
-#### 100X Data [Best Model Confusion Matrix]
+#### 100X Data [Best Model Confusion Matrix & ROC Curve]
 <table width="100%" border="1">
   <tr>    
   <img src="tmp/100X - confusion matrix - 4. FOLD.jpg" height=300 align="center">
+  <td><img src="tmp/100X - confusion matrix - 4. FOLD.jpg" height=300 align="left"></td>
+  <td><img src="tmp/100X - ROC - 4. FOLD.jpg" height=300 align="right"></td>
   </tr>
 </table>
 
-#### 200X Data [Best Model Confusion Matrix]
+#### 200X Data [Best Model Confusion Matrix & ROC Curve]
 <table width="100%" border="1">
   <tr>    
-  <img src="tmp/200X - confusion matrix - 3. FOLD.jpg" height=300 align="center">
+  <td><img src="tmp/200X - confusion matrix - 3. FOLD.jpg" height=300 align="left"></td>
+  <td><img src="tmp/200X - ROC - 3. FOLD.jpg" height=300 align="right"></td>
   </tr>
 </table>
 
-#### 400X Data [Best Model Confusion Matrix]
+#### 400X Data [Best Model Confusion Matrix & ROC Curve]
 <table width="100%" border="1">
-  <tr>    
-  <img src="tmp/400X - confusion matrix - 4. FOLD.jpg" height=300 align="center">
+  <tr>  
+  <td><img src="tmp/400X - confusion matrix - 4. FOLD.jpg" height=300 align="left"></td>
+  <td><img src="tmp/400X - ROC - 4. FOLD.jpg" height=300 align="right"></td>
   </tr>
 </table>
 
-#### Combined Data - Benign/Malignant Classification [Best Model Confusion Matrix]
+#### Combined Data - Benign/Malignant Classification [Best Model Confusion Matrix & ROC Curve]
 <table width="100%" border="1">
   <tr>    
-  <img src="tmp/ALL_DATA - confusion matrix - 5. FOLD.jpg" height=300 align="center">
+  <td><img src="tmp/ALL_DATA - confusion matrix - 5. FOLD.jpg" height=300 align="left"></td>
+  <td><img src="tmp/All_Data - ROC - 5. FOLD.jpg" height=300 align="right"></td>
   </tr>
 </table>
 
