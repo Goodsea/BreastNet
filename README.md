@@ -123,7 +123,6 @@ A novel convolutional neural network model through histopathological images for 
 #### 100X Data [Best Model Confusion Matrix & ROC Curve]
 <table width="100%" border="1">
   <tr>    
-  <img src="tmp/100X - confusion matrix - 4. FOLD.jpg" height=300 align="center">
   <td><img src="tmp/100X - confusion matrix - 4. FOLD.jpg" height=300 align="left"></td>
   <td><img src="tmp/100X - ROC - 4. FOLD.jpg" height=300 align="right"></td>
   </tr>
