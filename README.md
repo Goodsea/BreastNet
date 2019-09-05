@@ -23,8 +23,8 @@ A novel convolutional neural network model through histopathological images for 
           - [Combined Data - Benign/Malignant Classification [Best Model Confusion Matrix & ROC Curve]](https://github.com/Goodsea/BreastNet#combined-data---benignmalignant-classification-best-model-confusion-matrix--roc-curve)
           - [Combined Data - Sub-Benign || Sub-Malignant Diseases Classification [Best Model Confusion Matrix]](https://github.com/Goodsea/BreastNet#combined-data---sub-benign--sub-malignant-diseases-classification-best-model-confusion-matrix)
 - [Best Pretrained Models](https://github.com/Goodsea/BreastNet#best-pretrained-models)
-- [Requirements](https://github.com/Goodsea/BreastNet#Requirements)
-- [Training](https://github.com/Goodsea/BreastNet#Training)
+- [Requirements](https://github.com/Goodsea/BreastNet#requirements)
+- [Training](https://github.com/Goodsea/BreastNet#training)
 - [License](https://github.com/Goodsea/BreastNet#license)  
 - [Citation](https://github.com/Goodsea/BreastNet#citation)  
      
