@@ -24,6 +24,7 @@ A novel convolutional neural network model through histopathological images for 
           - [Combined Data - Sub-Benign || Sub-Malignant Diseases Classification [Best Model Confusion Matrix]](https://github.com/Goodsea/BreastNet#combined-data---sub-benign--sub-malignant-diseases-classification-best-model-confusion-matrix)
 - [Best Pretrained Models](https://github.com/Goodsea/BreastNet#best-pretrained-models)
 - [Requirements](https://github.com/Goodsea/BreastNet#Requirements)
+- [Training](https://github.com/Goodsea/BreastNet#Training)
 - [License](https://github.com/Goodsea/BreastNet#license)  
 - [Citation](https://github.com/Goodsea/BreastNet#citation)  
      
@@ -167,7 +168,7 @@ A novel convolutional neural network model through histopathological images for 
 | 100X | 4/5 | 0.978 | 0.975 | <a href="https://drive.google.com/open?id=1gZEq-xnurwFmhqZ8oUqpM6ic-ZEX9hJ7">GDrive[Best Model]</a> |
 | 200X | 3/5 | 0.985 | 0.982 | <a href="https://drive.google.com/open?id=1RpEXjN83oHfVfw6BNXV11sUWHCRQb1kP">GDrive[Best Model]</a> |
 | 400X | 4/5 | 0.958 | 0.952 | <a href="https://drive.google.com/open?id=1c-nAOTuzhDyebH8ANKiO_12fxu1l3Pu0">GDrive[Best Model]</a> |
-| Combined Benign/Malignant | 5/5 | 0.987 | 0.985 | <a href="https://drive.google.com/open?id=11p9RrkZz1c8WV-kuoVqIIeS3-9p0CC1I">GDrive[Best Model]</a> |
+| Combined Benign/Malignant | 5/5 | 0.988 | 0.985 | <a href="https://drive.google.com/open?id=11p9RrkZz1c8WV-kuoVqIIeS3-9p0CC1I">GDrive[Best Model]</a> |
 | Combined Sub-Benign | 5/5 | 0.955 | 0.950 | <a href="https://drive.google.com/open?id=1yysBT_QfPw_TwZb7q5zEiSjwFRRmyGRy">GDrive[Best Model]</a> |
 | Combined Sub-Malignant | 3/5 | 0.928 | 0.920 | <a href="https://drive.google.com/open?id=1-aqYUC9bjfU80035rr-YuF42-Dqhxcw-">GDrive[Best Model]</a> |
 
@@ -181,6 +182,9 @@ A novel convolutional neural network model through histopathological images for 
 - scikit-image
 - scikit-learn
 - tqdm
+
+# Training
+Download and extract "Breast Cancer Histopathological Database (BreakHis)" into "data" folder. Then choose the IPython Notebook to trainining and testing.
 
 # License 
 This project is licensed under the Apache License 2.0 - see the <a href="LICENSE">LICENSE</a> file for details.
