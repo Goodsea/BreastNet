@@ -190,6 +190,7 @@ Download and extract "Breast Cancer Histopathological Database (BreakHis)" into 
 This project is licensed under the Apache License 2.0 - see the <a href="LICENSE">LICENSE</a> file for details.
 
 # Citation
+```
 @article{To_a_ar_2019,
 	doi = {10.1016/j.physa.2019.123592},
 	url = {https://doi.org/10.1016%2Fj.physa.2019.123592},
@@ -200,3 +201,4 @@ This project is licensed under the Apache License 2.0 - see the <a href="LICENSE
 	title = {{BreastNet}: A novel convolutional neural network model through histopathological images for the diagnosis of breast cancer},
 	journal = {Physica A: Statistical Mechanics and its Applications}
 } 
+```
