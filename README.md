@@ -191,14 +191,7 @@ This project is licensed under the Apache License 2.0 - see the <a href="LICENSE
 
 # Citation
 ```
-@article{To_a_ar_2019,
-	doi = {10.1016/j.physa.2019.123592},
-	url = {https://doi.org/10.1016%2Fj.physa.2019.123592},
-	year = 2019,
-	month = {nov},
-	publisher = {Elsevier {BV}},
-	author = {Mesut Toğaçar and Kutsal Baran Özkurt and Burhan Ergen and Zafer Cömert},
-	title = {{BreastNet}: A novel convolutional neural network model through histopathological images for the diagnosis of breast cancer},
-	journal = {Physica A: Statistical Mechanics and its Applications}
-} 
+M. Togaçar, K.B. Özkurt, B. Ergen et al., BreastNet: A novel ˘
+convolutional neural network model through histopathological images for the diagnosis of breast
+cancer, Physica A (2019), doi: https://doi.org/10.1016/j.physa.2019.123592.
 ```
