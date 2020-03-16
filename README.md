@@ -184,7 +184,7 @@ A novel convolutional neural network model through histopathological images for 
 - tqdm
 
 # Training
-Download and extract "Breast Cancer Histopathological Database (BreakHis)" into "data" folder. Then choose the IPython Notebook to train and test the model.
+Download and extract <a href="https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/">Breast Cancer Histopathological Database (BreakHis)</a> into "data" folder. Then choose the IPython Notebook to train and test the model.
 
 # License 
 This project is licensed under the Apache License 2.0 - see the <a href="LICENSE">LICENSE</a> file for details.
