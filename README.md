@@ -197,5 +197,9 @@ cancer, Physica A (2019), doi: https://doi.org/10.1016/j.physa.2019.123592.
 ```
 # Contact
 If you have any questions about the research, feel free to ask! 
-<br>
+<hr>
+
+
+```
 E-mail: kutsal_baran@hotmail.com
+```
