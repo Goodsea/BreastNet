@@ -195,3 +195,7 @@ M. Togaçar, K.B. Özkurt, B. Ergen et al., BreastNet: A novel ˘
 convolutional neural network model through histopathological images for the diagnosis of breast
 cancer, Physica A (2019), doi: https://doi.org/10.1016/j.physa.2019.123592.
 ```
+# Contact
+If you have any questions about the research, feel free to ask! 
+<br>
+E-mail: kutsal_baran@hotmail.com
