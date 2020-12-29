@@ -8,13 +8,12 @@ A novel convolutional neural network model through histopathological images for 
 
 # Usage
 ``` python
+# Typical tf.keras API usage
+from breastnet import BreastNet
 
-    # Typical tf.keras API usage
-    from breastnet import BreastNet
-
-    model = BreastNet(input_shape=..., n_classes=...)
-    model.compile(...)
-    history = model.fit(...)
+model = BreastNet(input_shape=..., n_classes=...)
+model.compile(...)
+history = model.fit(...)
 ```
 
 # Further information
