@@ -1,0 +1,7 @@
+tensorflow-gpu
+tqdm
+matplotlib
+Pillow 
+albumentations
+scikit-image
+scikit-learn
