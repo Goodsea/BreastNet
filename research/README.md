@@ -160,13 +160,13 @@
 # Best Pretrained Weights
 | Data Type | Fold | Accuracy | F1-Score | Pretrained Model Link |
 | --- | --- | --- | --- | --- |
-| 40X | 4/5 | 0.979 | 0.976 | <a href="https://drive.google.com/open?id=11zeJ1gxTNwLFYpLgJLhuB3dCQQumy8oe">GDrive[Best Model]</a> |
-| 100X | 4/5 | 0.978 | 0.975 | <a href="https://drive.google.com/open?id=1gZEq-xnurwFmhqZ8oUqpM6ic-ZEX9hJ7">GDrive[Best Model]</a> |
-| 200X | 3/5 | 0.985 | 0.982 | <a href="https://drive.google.com/open?id=1RpEXjN83oHfVfw6BNXV11sUWHCRQb1kP">GDrive[Best Model]</a> |
-| 400X | 4/5 | 0.958 | 0.952 | <a href="https://drive.google.com/open?id=1c-nAOTuzhDyebH8ANKiO_12fxu1l3Pu0">GDrive[Best Model]</a> |
-| Combined Benign/Malignant | 5/5 | 0.988 | 0.985 | <a href="https://drive.google.com/open?id=11p9RrkZz1c8WV-kuoVqIIeS3-9p0CC1I">GDrive[Best Model]</a> |
-| Combined Sub-Benign | 5/5 | 0.955 | 0.950 | <a href="https://drive.google.com/open?id=1yysBT_QfPw_TwZb7q5zEiSjwFRRmyGRy">GDrive[Best Model]</a> |
-| Combined Sub-Malignant | 3/5 | 0.928 | 0.920 | <a href="https://drive.google.com/open?id=1-aqYUC9bjfU80035rr-YuF42-Dqhxcw-">GDrive[Best Model]</a> |
+| 40X | 4/5 | 0.979 | 0.976 | <a href="https://drive.google.com/open?id=11zeJ1gxTNwLFYpLgJLhuB3dCQQumy8oe" target="_blank">GDrive[Best Model]</a> |
+| 100X | 4/5 | 0.978 | 0.975 | <a href="https://drive.google.com/open?id=1gZEq-xnurwFmhqZ8oUqpM6ic-ZEX9hJ7" target="_blank">GDrive[Best Model]</a> |
+| 200X | 3/5 | 0.985 | 0.982 | <a href="https://drive.google.com/open?id=1RpEXjN83oHfVfw6BNXV11sUWHCRQb1kP" target="_blank">GDrive[Best Model]</a> |
+| 400X | 4/5 | 0.958 | 0.952 | <a href="https://drive.google.com/open?id=1c-nAOTuzhDyebH8ANKiO_12fxu1l3Pu0" target="_blank">GDrive[Best Model]</a> |
+| Combined Benign/Malignant | 5/5 | 0.988 | 0.985 | <a href="https://drive.google.com/open?id=11p9RrkZz1c8WV-kuoVqIIeS3-9p0CC1I" target="_blank">GDrive[Best Model]</a> |
+| Combined Sub-Benign | 5/5 | 0.955 | 0.950 | <a href="https://drive.google.com/open?id=1yysBT_QfPw_TwZb7q5zEiSjwFRRmyGRy" target="_blank">GDrive[Best Model]</a> |
+| Combined Sub-Malignant | 3/5 | 0.928 | 0.920 | <a href="https://drive.google.com/open?id=1-aqYUC9bjfU80035rr-YuF42-Dqhxcw-" target="_blank">GDrive[Best Model]</a> |
 
 # Requirements
 - keras
@@ -180,7 +180,7 @@
 - tqdm
 
 # Training
-Download and extract <a href="https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/">Breast Cancer Histopathological Database (BreakHis)</a> into "data" folder. Then choose the IPython Notebook to train and test the model.
+Download and extract <a href="https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/" target="_blank">Breast Cancer Histopathological Database (BreakHis)</a> into "data" folder. Then choose the IPython Notebook to train and test the model.
 
 # Citation
 ```
