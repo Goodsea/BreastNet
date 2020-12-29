@@ -1,28 +1,28 @@
 # Table of Contents
 
-- [Model Architecture ](https://github.com/Goodsea/BreastNet#model-architecture)
-     - [Sub-Modules](https://github.com/Goodsea/BreastNet#sub-modules)
-     - [General Architecture](https://github.com/Goodsea/BreastNet#general-architecture)
-- [Results](https://github.com/Goodsea/BreastNet#results)
-     - [Training Graphs](https://github.com/Goodsea/BreastNet#training-graphs)
-          - [40X Data  [Best Model - Graph]](https://github.com/Goodsea/BreastNet/tree/master/research#40x-data-best-model-graph)
-          - [100X Data [Best Model - Graph]](https://github.com/Goodsea/BreastNet/tree/master/research#100x-data-best-model-graph)
-          - [200X Data [Best Model - Graph]](https://github.com/Goodsea/BreastNet/tree/master/research#200x-data-best-model-graph)
-          - [400X Data [Best Model - Graph]](https://github.com/Goodsea/BreastNet/tree/master/research#400x-data-best-model-graph)
-          - [Combined Data - Benign/Malignant Classification [Best Model Graph]](https://github.com/Goodsea/BreastNet/tree/master/research#combined-data---benignmalignant-classification-best-model-graph)
-          - [Combined Data - Sub-Benign Diseases Classification [Best Model Graph]](https://github.com/Goodsea/BreastNet/tree/master/research#combined-data---sub-benign-diseases-classification-best-model-graph)
-          - [Combined Data - Sub-Malignant Diseases Classification [Best Model Graph]](https://github.com/Goodsea/BreastNet/tree/master/research#combined-data---sub-malignant-diseases-classification-best-model-graph)
-     - [Confusion Matrixes](https://github.com/Goodsea/BreastNet#confusion-matrixes)
-          - [40X Data [Best Model Confusion Matrix & ROC Curve]](https://github.com/Goodsea/BreastNet/tree/master/research#40x-data-best-model-confusion-matrix--roc-curve)
-          - [100X Data [Best Model Confusion Matrix & ROC Curve]](https://github.com/Goodsea/BreastNet/tree/master/research#100x-data-best-model-confusion-matrix--roc-curve)
-          - [200X Data [Best Model Confusion Matrix & ROC Curve]](https://github.com/Goodsea/BreastNet/tree/master/research#200x-data-best-model-confusion-matrix--roc-curve)
-          - [400X Data [Best Model Confusion Matrix & ROC Curve]](https://github.com/Goodsea/BreastNet/tree/master/research#400x-data-best-model-confusion-matrix--roc-curve)
-          - [Combined Data - Benign/Malignant Classification [Best Model Confusion Matrix & ROC Curve]](https://github.com/Goodsea/BreastNet/tree/master/research#combined-data---benignmalignant-classification-best-model-confusion-matrix--roc-curve)
-          - [Combined Data - Sub-Benign || Sub-Malignant Diseases Classification [Best Model Confusion Matrix]](https://github.com/Goodsea/BreastNet/tree/master/research#combined-data---sub-benign--sub-malignant-diseases-classification-best-model-confusion-matrix)
-- [Best Pretrained Models](https://github.com/Goodsea/BreastNet/tree/master/research#best-pretrained-models)
-- [Requirements](https://github.com/Goodsea/BreastNet/tree/master/research#requirements)
-- [Training](https://github.com/Goodsea/BreastNet/tree/master/research#training)
-- [Citation](https://github.com/Goodsea/BreastNet/tree/master/research#citation)  
+- [Model Architecture ](#model-architecture)
+     - [Sub-Modules](#sub-modules)
+     - [General Architecture](#general-architecture)
+- [Results](#results)
+     - [Training Graphs](#training-graphs)
+          - [40X Data  [Best Model - Graph]](#40x-data-best-model-graph)
+          - [100X Data [Best Model - Graph]](#100x-data-best-model-graph)
+          - [200X Data [Best Model - Graph]](#200x-data-best-model-graph)
+          - [400X Data [Best Model - Graph]](#400x-data-best-model-graph)
+          - [Combined Data - Benign/Malignant Classification [Best Model Graph]](#combined-data---benignmalignant-classification-best-model-graph)
+          - [Combined Data - Sub-Benign Diseases Classification [Best Model Graph]](#combined-data---sub-benign-diseases-classification-best-model-graph)
+          - [Combined Data - Sub-Malignant Diseases Classification [Best Model Graph]](#combined-data---sub-malignant-diseases-classification-best-model-graph)
+     - [Confusion Matrixes](#confusion-matrixes)
+          - [40X Data [Best Model Confusion Matrix & ROC Curve]](#40x-data-best-model-confusion-matrix--roc-curve)
+          - [100X Data [Best Model Confusion Matrix & ROC Curve]](#100x-data-best-model-confusion-matrix--roc-curve)
+          - [200X Data [Best Model Confusion Matrix & ROC Curve]](#200x-data-best-model-confusion-matrix--roc-curve)
+          - [400X Data [Best Model Confusion Matrix & ROC Curve]](#400x-data-best-model-confusion-matrix--roc-curve)
+          - [Combined Data - Benign/Malignant Classification [Best Model Confusion Matrix & ROC Curve]](#combined-data---benignmalignant-classification-best-model-confusion-matrix--roc-curve)
+          - [Combined Data - Sub-Benign || Sub-Malignant Diseases Classification [Best Model Confusion Matrix]](#combined-data---sub-benign--sub-malignant-diseases-classification-best-model-confusion-matrix)
+- [Best Pretrained Weights](#best-pretrained-weights)
+- [Requirements](#requirements)
+- [Training](#training)
+- [Citation](#citation)  
      
 # Model Architecture 
 ## Sub-Modules
@@ -157,7 +157,7 @@
 </table>
 
 
-# Best Pretrained Models
+# Best Pretrained Weights
 | Data Type | Fold | Accuracy | F1-Score | Pretrained Model Link |
 | --- | --- | --- | --- | --- |
 | 40X | 4/5 | 0.979 | 0.976 | <a href="https://drive.google.com/open?id=11zeJ1gxTNwLFYpLgJLhuB3dCQQumy8oe">GDrive[Best Model]</a> |
