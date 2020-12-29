@@ -29,9 +29,6 @@ convolutional neural network model through histopathological images for the diag
 cancer, Physica A (2019), doi: https://doi.org/10.1016/j.physa.2019.123592 .
 ```
 
-# License 
-This project is licensed under the MIT LICENSE - see the <a href="LICENSE">LICENSE</a> file for details.
-
 # Contact
 If you have any questions about the research, feel free to ask! 
 <hr>
@@ -39,3 +36,6 @@ If you have any questions about the research, feel free to ask!
 ```
 E-mail: kutsal_baran@hotmail.com
 ```
+
+# License 
+This project is licensed under the MIT LICENSE - see the <a href="LICENSE">LICENSE</a> file for details.
