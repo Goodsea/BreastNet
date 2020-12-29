@@ -22,7 +22,6 @@
 - [Best Pretrained Models](https://github.com/Goodsea/BreastNet#best-pretrained-models)
 - [Requirements](https://github.com/Goodsea/BreastNet#requirements)
 - [Training](https://github.com/Goodsea/BreastNet#training)
-- [License](https://github.com/Goodsea/BreastNet#license)  
 - [Citation](https://github.com/Goodsea/BreastNet#citation)  
      
 # Model Architecture 
@@ -182,9 +181,6 @@
 
 # Training
 Download and extract <a href="https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/">Breast Cancer Histopathological Database (BreakHis)</a> into "data" folder. Then choose the IPython Notebook to train and test the model.
-
-# License 
-This project is licensed under the Apache License 2.0 - see the <a href="LICENSE">LICENSE</a> file for details.
 
 # Citation
 ```

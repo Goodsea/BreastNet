@@ -106,7 +106,7 @@ def residual_block(y, nb_channels, _strides=(1, 1), _project_shortcut=False):
     return y
 
 
-def BreastNet(input_shape, n_classes):
+def BreastNet(input_shape=(224,224,3), n_classes=4):
     """
     M. Togaçar, K.B. Özkurt, B. Ergen et al., BreastNet: A novel ˘
     convolutional neural network model through histopathological images for the diagnosis of breast
