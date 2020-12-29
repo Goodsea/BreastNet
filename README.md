@@ -1,7 +1,7 @@
 # BreastNet
 A novel convolutional neural network model through histopathological images for the diagnosis of breast cancer
 
-.. code-block:: python
+``` python
 
     # Typical tf.keras API usage
     import tensorflow as tf
@@ -10,6 +10,7 @@ A novel convolutional neural network model through histopathological images for 
     model = BreastNet(input_shape=..., n_classes=...)
     model.compile(...)
     history = model.fit(...)
+```
 
 # License 
 This project is licensed under the MIT LICENSE - see the <a href="LICENSE">LICENSE</a> file for details.
